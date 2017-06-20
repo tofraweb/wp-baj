@@ -1,0 +1,308 @@
+=== START test_database 2017-06-17 18:52:16 ===
+Connected with success to the Joomla database
+Joomla data found:
+3 sections
+9 categories
+43 articles
+6 web links
+
+=== END test_database 2017-06-17 18:52:17 ===
+
+=== START import 2017-06-17 19:02:47 ===
+Connected with success to the Joomla database
+Joomla data found:
+3 sections
+9 categories
+43 articles
+6 web links
+
+Importing categories...
+12 categories imported
+Importing posts...
+[ERROR] Can't copy /images/stories/powered_by.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2008/08/powered_by.png : A valid URL was not provided.
+[ERROR] Can't copy /images/stories/powered_by.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2008/08/powered_by.png : A valid URL was not provided.
+[ERROR] Can't copy /images/stories/ext_com.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2008/08/ext_com.png : A valid URL was not provided.
+[ERROR] Can't copy /images/stories/ext_com.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2008/08/ext_com.png : A valid URL was not provided.
+[ERROR] Can't copy /images/stories/ext_mod.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2008/08/ext_mod.png : A valid URL was not provided.
+[ERROR] Can't copy /images/stories/ext_plugin.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2008/08/ext_plugin.png : A valid URL was not provided.
+[ERROR] Can't copy /images/stories/ext_lang.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2008/08/ext_lang.png : A valid URL was not provided.
+43 posts imported
+0 medias imported
+6 tags imported
+2 links categories imported
+Importing web links...
+6 web links imported
+Don't forget to modify internal links.
+IMPORT COMPLETED
+=== END import 2017-06-17 19:02:52 ===
+
+=== START modify_links 2017-06-17 19:03:09 ===
+0 internal links modified
+=== END modify_links 2017-06-17 19:03:09 ===
+
+=== START test_database 2017-06-17 19:05:27 ===
+Connected with success to the Joomla database
+Joomla data found:
+3 sections
+9 categories
+43 articles
+6 web links
+
+=== END test_database 2017-06-17 19:05:27 ===
+
+=== START import 2017-06-17 19:06:41 ===
+Connected with success to the Joomla database
+Joomla data found:
+3 sections
+9 categories
+43 articles
+6 web links
+
+Importing categories...
+0 categories imported
+Importing posts...
+0 posts imported
+0 medias imported
+0 links categories imported
+Importing web links...
+0 web links imported
+Don't forget to modify internal links.
+IMPORT COMPLETED
+=== END import 2017-06-17 19:06:41 ===
+
+=== START import 2017-06-17 19:06:52 ===
+Connected with success to the Joomla database
+Joomla data found:
+3 sections
+9 categories
+43 articles
+6 web links
+
+Importing categories...
+0 categories imported
+Importing posts...
+0 posts imported
+0 medias imported
+0 links categories imported
+Importing web links...
+0 web links imported
+Don't forget to modify internal links.
+IMPORT COMPLETED
+=== END import 2017-06-17 19:06:52 ===
+
+=== START test_database 2017-06-17 19:10:49 ===
+Connected with success to the Joomla database
+Joomla data found:
+51 categories
+679 articles
+3 web links
+
+[WARNING] Your Joomla database contains several users. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> to import them.
+=== END test_database 2017-06-17 19:10:49 ===
+
+=== START import 2017-06-17 19:11:06 ===
+Connected with success to the Joomla database
+Joomla data found:
+51 categories
+679 articles
+3 web links
+
+[WARNING] Your Joomla database contains several users. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> to import them.
+Importing categories...
+48 categories imported
+Importing posts...
+[ERROR] Can't copy /images/joomla_logo_black.jpg to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/08/joomla_logo_black.jpg : A valid URL was not provided.
+[ERROR] Can't copy /images/joomla_logo_black.jpg to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/08/joomla_logo_black.jpg : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2012/09/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Kohelet3_10_22.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2013/01/Kohelet3_10_22.mp3 : cURL error 28: Operation timed out after 4938 milliseconds with 799550 out of 8728396 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/kohelet4_1_16.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2013/01/kohelet4_1_16.mp3 : cURL error 28: Operation timed out after 4906 milliseconds with 1110623 out of 8516500 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/koheket4_17_5_6.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2013/01/koheket4_17_5_6.mp3 : cURL error 28: Operation timed out after 4890 milliseconds with 603910 out of 8928628 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/revelation/revelation_11_1-14.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2013/01/revelation_11_1-14.mp3 : cURL error 28: Operation timed out after 4875 milliseconds with 709030 out of 9503928 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/revelation/revelation_14.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2013/01/revelation_14.mp3 : cURL error 28: Operation timed out after 4938 milliseconds with 612670 out of 7988256 bytes received
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2013/07/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2013/07/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2013/10/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2013/10/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2014/01/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2014/01/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2015/06/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy /images/banners/Banner5.png to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2015/06/Banner5.png : A valid URL was not provided.
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4875 milliseconds with 618510 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4890 milliseconds with 501746 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4828 milliseconds with 741150 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 799550 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 761590 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4969 milliseconds with 1012710 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4829 milliseconds with 595150 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4953 milliseconds with 843350 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4921 milliseconds with 881310 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4844 milliseconds with 808310 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/04/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4937 milliseconds with 758670 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/jobe_19.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/jobe_19.mp3 : cURL error 28: Operation timed out after 4968 milliseconds with 714870 out of 6641480 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/Jobe_1.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Jobe_1.mp3 : cURL error 28: Operation timed out after 4985 milliseconds with 586390 out of 7850648 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/1_John_4.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1_John_4.mp3 : cURL error 28: Operation timed out after 5000 milliseconds with 904670 out of 7995152 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/John_15.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/John_15.mp3 : cURL error 28: Operation timed out after 4891 milliseconds with 811230 out of 7552892 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/John_12.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/John_12.mp3 : cURL error 28: Operation timed out after 4890 milliseconds with 881310 out of 5329388 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/John_2.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/John_2.mp3 : Not Found
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/Zecharia_12.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Zecharia_12.mp3 : cURL error 28: Operation timed out after 4953 milliseconds with 659390 out of 1331660 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/Mark_11_Part_2.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Mark_11_Part_2.mp3 : Not Found
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/Mark_11_the_fig_tree.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Mark_11_the_fig_tree.mp3 : cURL error 28: Operation timed out after 4875 milliseconds with 1221490 out of 8856884 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/leviticus_23.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/leviticus_23.mp3 : cURL error 28: Operation timed out after 4906 milliseconds with 1027322 out of 7965344 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/Hanes_Hagadol.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Hanes_Hagadol.mp3 : cURL error 28: Operation timed out after 4969 milliseconds with 1357110 out of 5897576 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/2_Tim_4.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/2_Tim_4.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 586390 out of 4462796 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/1_tim_3.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1_tim_3.mp3 : cURL error 28: Operation timed out after 4875 milliseconds with 1038990 out of 3095840 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/Revelation_21.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Revelation_21.mp3 : cURL error 28: Operation timed out after 4969 milliseconds with 910510 out of 8015780 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/Kohelt_3.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Kohelt_3.mp3 : cURL error 28: Operation timed out after 4890 milliseconds with 697350 out of 8311484 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/Acts_12_prayer.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Acts_12_prayer.mp3 : cURL error 28: Operation timed out after 4844 milliseconds with 891638 out of 7161392 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/acts_3.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/acts_3.mp3 : cURL error 28: Operation timed out after 4844 milliseconds with 1071110 out of 6600764 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/acts_2.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/acts_2.mp3 : cURL error 28: Operation timed out after 4829 milliseconds with 1103323 out of 8179076 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/acts_1.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/acts_1.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 782030 out of 8895224 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/2_kings_6.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/2_kings_6.mp3 : cURL error 28: Operation timed out after 4968 milliseconds with 735310 out of 6791708 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/2_kings_5.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/2_kings_5.mp3 : cURL error 28: Operation timed out after 4875 milliseconds with 819990 out of 6743222 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/Zekaria14.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Zekaria14.mp3 : cURL error 28: Operation timed out after 4828 milliseconds with 1091550 out of 8580944 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/Ostrovsky/Luke23.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Luke23.mp3 : cURL error 28: Operation timed out after 4891 milliseconds with 822910 out of 8619284 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Who_is_your_God.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Who_is_your_God.mp3 : cURL error 28: Operation timed out after 4875 milliseconds with 1366030 out of 5487624 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Pride_Yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Pride_Yaron.mp3 : cURL error 28: Operation timed out after 4969 milliseconds with 703190 out of 8274888 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Pride_Yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Pride_Yaron.mp3 : cURL error 28: Operation timed out after 4969 milliseconds with 691510 out of 8274888 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/mark_8_14-21.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/mark_8_14-21.mp3 : cURL error 28: Operation timed out after 4985 milliseconds with 1168930 out of 4805928 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2010/Levitcus_23.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Levitcus_23.mp3 : cURL error 28: Operation timed out after 4906 milliseconds with 1227330 out of 8127216 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/The_Race.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/The_Race.mp3 : cURL error 28: Operation timed out after 4984 milliseconds with 1389390 out of 5041060 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Talmidut.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Talmidut.mp3 : cURL error 28: Operation timed out after 4875 milliseconds with 819990 out of 9237508 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Sukot.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Sukot.mp3 : cURL error 28: Operation timed out after 4891 milliseconds with 633110 out of 8630764 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Rosh_Hashana.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Rosh_Hashana.mp3 : cURL error 28: Operation timed out after 4828 milliseconds with 869630 out of 7228708 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Risun_Atsmi.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Risun_Atsmi.mp3 : cURL error 28: Operation timed out after 4921 milliseconds with 849190 out of 5543908 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Forgiveness.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Forgiveness.mp3 : cURL error 28: Operation timed out after 4828 milliseconds with 843350 out of 8491660 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Psalms_110.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Psalms_110.mp3 : cURL error 28: Operation timed out after 4797 milliseconds with 787870 out of 8546572 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Stand_guard.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Stand_guard.mp3 : cURL error 28: Operation timed out after 4860 milliseconds with 595150 out of 6777028 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Matthew_6_19-34.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Matthew_6_19-34.mp3 : cURL error 28: Operation timed out after 4906 milliseconds with 1180610 out of 8448508 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/1_John_1_the_need_to_confess_our_sins.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1_John_1_the_need_to_confess_our_sins.mp3 : cURL error 28: Operation timed out after 4937 milliseconds with 621430 out of 8561044 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Psalms_37_1-11.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Psalms_37_1-11.mp3 : cURL error 28: Operation timed out after 4985 milliseconds with 720803 out of 7005312 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/John_17.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/John_17.mp3 : cURL error 28: Operation timed out after 4985 milliseconds with 1437570 out of 9217584 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Jeremiah_6.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Jeremiah_6.mp3 : cURL error 28: Operation timed out after 4969 milliseconds with 691534 out of 8499024 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/how_god_works_through_our_weakness.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/how_god_works_through_our_weakness.mp3 : cURL error 28: Operation timed out after 4875 milliseconds with 811230 out of 8754984 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Deuteronomy_6_4-9.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Deuteronomy_6_4-9.mp3 : cURL error 28: Operation timed out after 4984 milliseconds with 605370 out of 9255456 bytes received
+=== START stop_import 2017-06-17 19:16:41 ===
+=== END stop_import 2017-06-17 19:16:41 ===
+
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Deuteronomy_30_11-20.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Deuteronomy_30_11-20.mp3 : cURL error 28: Operation timed out after 4921 milliseconds with 802470 out of 5103072 bytes received
+=== START import 2017-06-17 19:16:48 ===
+Connected with success to the Joomla database
+Joomla data found:
+51 categories
+679 articles
+3 web links
+
+[WARNING] Your Joomla database contains several users. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> to import them.
+Importing categories...
+0 categories imported
+Importing posts...
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Christ_and_the_new_covenant.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Christ_and_the_new_covenant.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 675558 out of 7232688 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/New_Covenant.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/New_Covenant.mp3 : cURL error 28: Operation timed out after 4797 milliseconds with 1024390 out of 6057072 bytes received
+119 posts imported
+0 medias imported
+1 links category imported
+Importing web links...
+0 web links imported
+Don't forget to modify internal links.
+IMPORT COMPLETED
+=== END import 2017-06-17 19:16:57 ===
+
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2011/Isaiah_53.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Isaiah_53.mp3 : cURL error 28: Operation timed out after 4938 milliseconds with 825829 out of 11567880 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2012/psalm8_zeidan.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/psalm8_zeidan.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 1246310 out of 8398996 bytes received
+=== START modify_links 2017-06-17 19:17:09 ===
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2012/luke16_19_31_jonathan.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/luke16_19_31_jonathan.mp3 : cURL error 28: Operation timed out after 4984 milliseconds with 1059430 out of 9315700 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2012/bro_ising.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/bro_ising.mp3 : cURL error 28: Operation timed out after 4937 milliseconds with 1036070 out of 5801380 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2012/judges6_1_16_tomy.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/judges6_1_16_tomy.mp3 : cURL error 28: Operation timed out after 4937 milliseconds with 1183530 out of 6320428 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2012/love_for_god.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/love_for_god.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 650630 out of 8054692 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2012/Secure_Salvation.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Secure_Salvation.mp3 : cURL error 28: Operation timed out after 4937 milliseconds with 1018549 out of 10556836 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2013/Yair_Salt.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Yair_Salt.mp3 : cURL error 28: Operation timed out after 4844 milliseconds with 1753766 out of 2850816 bytes received
+3225 internal links modified
+=== END modify_links 2017-06-17 19:17:39 ===
+
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2013/Brother%20Bobby.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Brother Bobby.mp3 : cURL error 28: Operation timed out after 5000 milliseconds with 610910 out of 7258112 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/nosim/2013/Simon%20Deuteronomy6.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Simon Deuteronomy6.mp3 : cURL error 28: Operation timed out after 4984 milliseconds with 1180610 out of 3604480 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/galatian/galatians_1_1_5_yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/galatians_1_1_5_yaron.mp3 : cURL error 28: Operation timed out after 4828 milliseconds with 846270 out of 7657662 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/galatian/galatians_1_1_5_yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/galatians_1_1_5_yaron.mp3 : cURL error 28: Operation timed out after 5000 milliseconds with 1005110 out of 7657662 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/galatian/galatian2014/Galatians1_1_9_yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Galatians1_1_9_yaron.mp3 : cURL error 28: Operation timed out after 4953 milliseconds with 855029 out of 11818276 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/galatian/galatian2014/Galatian1_10_end_ilan.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Galatian1_10_end_ilan.mp3 : cURL error 28: Operation timed out after 4938 milliseconds with 554270 out of 9425572 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/galatian/galatian2014/Galatians2_1_11_yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Galatians2_1_11_yaron.mp3 : cURL error 28: Operation timed out after 4843 milliseconds with 782030 out of 8796868 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/galatian/galatian2014/Galatians3_15_end_ilan.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Galatians3_15_end_ilan.mp3 : cURL error 28: Operation timed out after 4985 milliseconds with 1038990 out of 5010820 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/galatian/galatian2014/Glatians4_12_end_Yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Glatians4_12_end_Yaron.mp3 : cURL error 28: Operation timed out after 4937 milliseconds with 866710 out of 9281572 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/galatian/galatian2014/Galatians5_1_12_ilan.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Galatians5_1_12_ilan.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 971830 out of 5611300 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/galatian/galatian2014/Galatians5_13_26_Yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Galatians5_13_26_Yaron.mp3 : cURL error 28: Operation timed out after 4953 milliseconds with 1115003 out of 9015892 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/galatian/galatian2014/Galatians6_1_10_ilan.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Galatians6_1_10_ilan.mp3 : cURL error 28: Operation timed out after 4969 milliseconds with 612670 out of 5581492 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians1_1-3.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians1_1-3.mp3 : cURL error 28: Operation timed out after 4812 milliseconds with 688590 out of 8941804 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1Corinthians1_18-31.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1Corinthians1_18-31.mp3 : cURL error 28: Operation timed out after 4906 milliseconds with 776190 out of 6440740 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians_3_11_visitor.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians_3_11_visitor.mp3 : cURL error 28: Operation timed out after 4875 milliseconds with 1164550 out of 5612862 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1Corinthians4.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1Corinthians4.mp3 : cURL error 28: Operation timed out after 4891 milliseconds with 676910 out of 9708820 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians5.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians5.mp3 : cURL error 28: Operation timed out after 4844 milliseconds with 1365742 out of 6990676 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians6.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians6.mp3 : cURL error 28: Operation timed out after 4828 milliseconds with 963069 out of 11020372 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians7_17_40.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians7_17_40.mp3 : cURL error 28: Operation timed out after 4985 milliseconds with 662310 out of 9265156 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians8.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians8.mp3 : cURL error 28: Operation timed out after 4984 milliseconds with 770350 out of 7317268 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians9_1_14.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians9_1_14.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 1284270 out of 9153268 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians9_15_27.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians9_15_27.mp3 : cURL error 28: Operation timed out after 4828 milliseconds with 656470 out of 9229276 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians11_2_16.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians11_2_16.mp3 : cURL error 28: Operation timed out after 4828 milliseconds with 770350 out of 9186292 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians12.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians12.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 589310 out of 8744716 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1corinthians15_1_19.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1corinthians15_1_19.mp3 : cURL error 28: Operation timed out after 4953 milliseconds with 887162 out of 2781284 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1Corinthians15_35_end_ilan.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1Corinthians15_35_end_ilan.mp3 : cURL error 28: Operation timed out after 4859 milliseconds with 895910 out of 7055044 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Corinthians/1Corinthians16_yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1Corinthians16_yaron.mp3 : cURL error 28: Operation timed out after 4985 milliseconds with 890069 out of 12949108 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Jeremiah/Jeremiah_23.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Jeremiah_23.mp3 : cURL error 28: Operation timed out after 4938 milliseconds with 726643 out of 6887044 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Jeremiah/Jeremiah_29.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Jeremiah_29.mp3 : cURL error 28: Operation timed out after 4953 milliseconds with 869630 out of 7777828 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Jeremiah/Jeremiah_31.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Jeremiah_31.mp3 : cURL error 28: Operation timed out after 4953 milliseconds with 1021470 out of 7754572 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Jeremiah/Jeremiah_39.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Jeremiah_39.mp3 : cURL error 28: Operation timed out after 4828 milliseconds with 650630 out of 7341076 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Jeremiah/Jeremia50.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Jeremia50.mp3 : cURL error 28: Operation timed out after 4891 milliseconds with 656470 out of 9584404 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Jeremiah/Jeremia52.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Jeremia52.mp3 : cURL error 28: Operation timed out after 4890 milliseconds with 811230 out of 8229868 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Ecclesiastes_opening.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Ecclesiastes_opening.mp3 : cURL error 28: Operation timed out after 4953 milliseconds with 1202534 out of 8776180 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Ecclesiastes_1_5-18.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Ecclesiastes_1_5-18.mp3 : cURL error 28: Operation timed out after 4843 milliseconds with 1193762 out of 8339860 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Kohelet_2.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Kohelet_2.mp3 : cURL error 28: Operation timed out after 4985 milliseconds with 1138270 out of 6683524 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Kohelet3_1_9.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Kohelet3_1_9.mp3 : cURL error 28: Operation timed out after 4844 milliseconds with 884230 out of 8049292 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Kohelet3_10_22.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Kohelet3_10_22.mp3 : cURL error 28: Operation timed out after 4843 milliseconds with 831670 out of 8728396 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/kohelet4_1_16.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/kohelet4_1_16.mp3 : cURL error 28: Operation timed out after 4984 milliseconds with 725090 out of 8516500 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/koheket4_17_5_6.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/koheket4_17_5_6.mp3 : cURL error 28: Operation timed out after 4938 milliseconds with 732390 out of 8928628 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/koheket5_7_19.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/koheket5_7_19.mp3 : cURL error 28: Operation timed out after 4953 milliseconds with 691510 out of 8023132 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/koheket6.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/koheket6.mp3 : cURL error 28: Operation timed out after 4969 milliseconds with 919270 out of 8206516 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/koheket7_1_14.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/koheket7_1_14.mp3 : cURL error 28: Operation timed out after 4891 milliseconds with 866710 out of 8004052 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Kohelet7_15_25_yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Kohelet7_15_25_yaron.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 933869 out of 12468868 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/koheket7_26_29.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/koheket7_26_29.mp3 : cURL error 28: Operation timed out after 4937 milliseconds with 742718 out of 8399644 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Kohelet8_1_9_yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Kohelet8_1_9_yaron.mp3 : cURL error 28: Operation timed out after 4875 milliseconds with 869630 out of 9545668 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Kohelet11_1_6_yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Kohelet11_1_6_yaron.mp3 : cURL error 28: Operation timed out after 4938 milliseconds with 884229 out of 13016644 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Kohelet11_7_12_7_yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Kohelet11_7_12_7_yaron.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 1014170 out of 8958220 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/Ecclesiastes/Kohelet12_8_14_Yaron.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/Kohelet12_8_14_Yaron.mp3 : cURL error 28: Operation timed out after 4844 milliseconds with 925110 out of 6804268 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Samuel/1_Samuel_14_1-21.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1_Samuel_14_1-21.mp3 : cURL error 28: Operation timed out after 4953 milliseconds with 936790 out of 6229224 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Samuel/1_Samuel_14_22-52.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1_Samuel_14_22-52.mp3 : cURL error 28: Operation timed out after 4985 milliseconds with 1093010 out of 6949584 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Samuel/1_Samuel_2.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1_Samuel_2.mp3 : cURL error 28: Operation timed out after 4860 milliseconds with 714870 out of 8775504 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Samuel/1_Samuel_15.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1_Samuel_15.mp3 : cURL error 28: Operation timed out after 4922 milliseconds with 714870 out of 9013392 bytes received
+[ERROR] Can't copy http://2echad.com/drashot/sdarot/1_Samuel/1_Samuel_16.mp3 to C:\MAMP\htdocs\tofraweb\wp-baj/wp-content/uploads/2016/08/1_Samuel_16.mp3 : cURL error 28: Operation timed out after 4984 milliseconds with 1062350 out of 8035272 bytes received
+=== START import 2017-06-20 11:56:42 ===
+Connected with success to the Joomla database
+Joomla data found:
+51 categories
+679 articles
+3 web links
+
+[WARNING] Your Joomla database contains several users. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> to import them.
+Importing categories...
+0 categories imported
+Importing posts...
+[ERROR] The import process is still running. Please wait before running it again.
+=== END import 2017-06-20 11:56:44 ===
+
+=== START modify_links 2017-06-20 11:56:50 ===
+3225 internal links modified
+=== END modify_links 2017-06-20 11:57:22 ===
+
